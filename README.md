@@ -85,5 +85,5 @@ This will ask you a series of questions. For this project we’ll answer the fol
 
 Each file covers some tips in Typescript.
 
-[Types with variables](./src/variables.ts)
-[Types with functions](./src/functions.ts)
+- [Types with variables](./src/variables.ts)
+- [Types with functions](./src/functions.ts)
